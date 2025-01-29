@@ -1,8 +1,101 @@
 .header {
+  display: grid;
+  grid-template-columns: 1fr min-content 1fr;
+  align-items: center;
+  padding: 95px 50px 100px 50px;
+}
+
+.header__menu {
+/*  max-width: 392px; */
+}
+
+.header__links-list {
+  display: flex;
+  column-gap: 14px;
+  padding:0;
+  margin:0;
+}
+
+.header__links-list-item {
+  list-style: circle inside;
+  padding:0;
+  margin:0;
+}
+
+.header__links-list-item_no-bullit {
+  list-style: none;
+}
+
+.header__link {
+  font-size: 18px;
+  text-decoration: none;
+  line-height: 21px;
+}
+
+.header__link_active {
+  font-size: 18px;
+  text-decoration: none;
+  line-height: 21px;
+}
+
+.header__logo {
 
 }
 
+.header__logo-image {
+  width: 148px;
+  height: 105px;
+}
+
+.address {
+  max-width: 240px;
+  justify-self: end;
+  font-size: 18px;
+  font-style: normal;
+  line-height: 24px;
+}
+
 .cover {
+
+}
+
+.overlay {
+  
+}
+
+.cover__title {
+
+}
+
+.aligned-text {
+
+}
+
+.aligned-text_center {
+
+}
+
+.aligned-text_right {
+
+}
+
+.letter-spacing-extended {
+
+}
+
+.no-letter-spacing {
+
+}
+
+.cover__description {
+
+}
+
+.cover__description-text {
+
+}
+
+.bet-button {
 
 }
 
@@ -10,10 +103,110 @@
 
 }
 
+.lots__heading {
+
+}
+
+.lots__card-list {
+
+}
+
+.lots__card-list-item {
+
+}
+
+.card-link {
+
+}
+
+.card {
+
+}
+
+.card_type_film {
+
+}
+
+.card_type_book {
+
+}
+
+.card_type_picture {
+
+}
+
+.card__title {
+
+}
+
+.card__text {
+
+}
+
+.lots__look-more-link {
+
+}
+
 .about {
+
+}
+
+.about__column {
+
+}
+
+.about__logo {
+
+}
+
+.about__logo-image {
+
+}
+
+.about__title {
+
+}
+
+.about__text {
 
 }
 
 .footer {
 
+}
+
+.footer__menu {
+
+}
+
+.footer__menu-list {
+
+}
+
+.footer__menu-list-item {
+
+}
+
+.footer__menu-link {
+
+}
+
+.footer__menu-link_active {
+
+}
+
+.footer__social-list {
+
+}
+
+.footer__social-list-item {
+
+}
+
+.footer__social-link {
+
+}
+
+.footer__social-icon {
+  
 }
