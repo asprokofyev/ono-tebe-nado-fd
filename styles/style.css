@@ -306,7 +306,7 @@ html {
 }
 
 .footer__menu-link {
-
+  text-decoration: none;
 }
 
 .footer__menu-link_active {
