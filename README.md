@@ -1,1 +1,1 @@
-https://github.com/asprokofyev/ono-tebe-nado
+https://github.com/asprokofyev/ono-tebe-nado-fd
